@@ -1,5 +1,4 @@
 # Advanced HTML5 Elements and Forms
-
 ## Objectives
 Implement HTML5 images, lists, tables, forms and input types.
 Use form validation attributes.
